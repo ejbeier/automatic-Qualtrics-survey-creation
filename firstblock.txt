@@ -1,0 +1,43 @@
+[[AdvancedFormat]]
+
+
+[[Block:subj number]]
+
+[[Question:TextEntry]]
+[[ID:NUM]]
+Subject Number:
+
+[[PageBreak]]
+
+[[Block:Demographics]]
+
+[[Question:TextEntry]]
+[[ID:first]]
+Please enter your first name:
+
+[[Question:TextEntry]]
+[[ID:last]]
+Please enter your last name:
+
+[[Question:TextEntry]]
+[[ID:age]]
+Please enter your age in years:
+
+[[Question:MC]]
+[[ID:gender]]
+Please enter your gender:
+[[Choices]]
+Male
+Female
+Non-binary
+
+[[PageBreak]]
+
+
+[[Block:Stimuli]]
+
+
+[[Question:Text]]
+Enter instructions here
+
+
